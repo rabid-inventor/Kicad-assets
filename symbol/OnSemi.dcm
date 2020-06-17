@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CPH6337
+D Transistor P-MOSFET with substrate diode (general)
+K pmos p-mos p-mosfet transistor
+F ~
+$ENDCMP
+#
+#End Doc Library

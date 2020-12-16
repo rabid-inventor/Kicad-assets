@@ -1,0 +1,12 @@
+(module ACAG0801-2450-T (layer F.Cu) (tedit 5FD8CB24)
+  (fp_text reference J4 (at 8.15 2.875) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value Conn_Coaxial (at -0.675 -6.25) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy -0.775 1.65) (xy 9.225 1.65) (xy 9.225 -5.35) (xy -0.775 -5.35)) (layer F.Mask) (width 0.15))
+  (fp_poly (pts (xy -0.75 1.65) (xy 9.25 1.65) (xy 9.25 -5.35) (xy -0.75 -5.35)) (layer Margin) (width 0.15))
+  (pad 2 smd rect (at -0.15 -0.7) (size 0.8 1.35) (layers F.Cu F.Paste F.Mask))
+  (pad 1 smd rect (at 7.2 -0.7) (size 3.5 1.35) (layers F.Cu F.Paste F.Mask))
+)

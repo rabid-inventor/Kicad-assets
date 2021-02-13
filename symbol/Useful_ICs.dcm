@@ -6,4 +6,10 @@ K wifi soc
 F http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
 $ENDCMP
 #
+$CMP ESP32-C3-MINI-1
+D Highly integrated Wi-Fi SoC, QFN-32
+K wifi soc
+F http://espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
+$ENDCMP
+#
 #End Doc Library
